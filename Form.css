@@ -1,0 +1,77 @@
+body{/* width:357px; *//* margin-left:500px; *//* padding:17px; *//* border: 1px solid #473bff; *//* border-radius: 10px; *//* margin-left: auto; *//* margin-right: auto; */}
+button.signup2 {
+    width: 500px;
+    color: white;
+    background-color: #ff2222;
+    padding: 10px;
+    /* border-radius: 10%; */
+    cursor: pointer;
+    border:none;
+}
+form{background-image:url(pexels-photo-812264.jpeg);}
+
+
+
+input#firstname {
+    width: 500px;
+    border-radius: 10px;
+    border:1px solid #f1f1f1;
+    height: 20px;
+}
+
+form {
+    width: 317px;
+    padding: 17px;
+    background: #265b865e;
+    border-radius: 1%;
+    margin-top: -889px;
+    margin-left: 437px;
+}
+
+input#lastname {}
+
+input#lastname {
+    width: 500px;
+    border:1px solid #f1f1f1;
+    border-radius: 10px;
+    height: 20px;
+}
+
+input#email {
+    width: 500px;
+    border:1px solid #f1f1f1;
+    border-radius: 10px;
+    height: 20px;
+}
+
+input#password {
+    width: 500px;
+    border:1px solid #f1f1f1;
+    border-radius: 10px;
+    height: 20px;
+}
+
+input#telephone {
+    width: 500px;
+    border:1px solid #f1f1f1;
+    border-radius: 10px;
+    height: 20px;
+}
+h1{text-align:center}
+
+
+label {
+    color: white;
+    font-size: 17px;
+}
+
+h1 {
+    color: #00ff43;
+    text-align: center;
+    margin-left: 137px;
+}
+img {
+    width: 1370px;
+    height: 1000px;
+}
+
